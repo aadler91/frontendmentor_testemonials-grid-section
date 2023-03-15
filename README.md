@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/aadler91/frontendmentor_testemonials-grid-section]https://github.com/aadler91/frontendmentor_testemonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://aadler91.github.io/frontendmentor_testemonials-grid-section/](https://aadler91.github.io/frontendmentor_testemonials-grid-section/)
 
 ## My process
 
